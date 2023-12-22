@@ -1,0 +1,3 @@
+tensorflow-cpu==2.6
+Pillow
+google.cloud
